@@ -10028,6 +10028,21 @@ body {
   color: #6c757d;
 }
 
+.img1 {
+    
+    width:  50px;
+    height: 50px;
+    
+}
+
+.img2{
+	
+	width:  100px;
+    height: 50px;
+	
+}
+
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -10051,6 +10066,8 @@ p.lead {
   font-size: 1.15rem;
   font-weight: 400;
 }
+
+
 
 .subheading {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
